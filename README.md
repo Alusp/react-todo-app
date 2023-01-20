@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# TODO LIST
 
 TODO-List is a project that is based on the react exercise with add Remove and update Feature with Interactive list.
 
